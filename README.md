@@ -1,4 +1,4 @@
-# NSIT-App
+# NSIT-Android-App
 
 [Get On Google PlayStore](https://play.google.com/store/apps/details?id=com.nsitstudentsportal.nsitapp&hl=en_IN)
 
