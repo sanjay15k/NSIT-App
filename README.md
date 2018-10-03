@@ -50,3 +50,6 @@
  
  
  
+ ## Team Members
+1. [nc-x](https://github.com/nc-x) - Built the [prototype](https://github.com/nc-x/nsitims) for the app.
+2. [sanjay-kd](https://github.com/sanjay-kd) - Built the [android app](https://play.google.com/store/apps/details?id=com.nsitstudentsportal.nsitapp&hl=en_IN).
